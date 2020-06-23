@@ -1,0 +1,670 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1772px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1772px;
+	 z-index:1;
+} 
+
+ #verx1 
+{ 
+	 left: -25px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 2002px;
+	 height: 92px;
+	 z-index:2;
+} 
+
+ #AboutusServices 
+{ 
+	 left: 1084px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 346px;
+	 height: 13px;
+	 z-index:3;
+} 
+
+ #fontel
+{ 
+	 left: 0px; 
+	 top: 90px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 471px;
+	 z-index:4;
+} 
+
+ #tel
+{ 
+	 left: 466px; 
+	 top: 125px; 
+	 position: absolute; 
+	 width: 374px;
+	 height: 708px;
+	 z-index:5;    
+}
+#ios 
+{ 
+	 left: 970px; 
+	 top: 239px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 48px;
+	 z-index:7;
+} 
+
+#text
+{ 
+	 left: 972px; 
+	 top: 307px; 
+	 position: absolute; 
+	 width: 456px;
+	 height: 39px;
+	 z-index:8;
+} 
+
+ #button1
+{ 
+	 left: 970px; 
+	 top: 382px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 43px;
+	 z-index:9;
+} 
+
+ #info1 
+{ 
+	 left: 1018px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 14px;
+	 z-index:10;
+} 
+
+ #kryg1 
+{ 
+	 left: 1391px; 
+	 top: 518px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:11;
+} 
+
+ #kryg2 
+{ 
+	 left: 1404px; 
+	 top: 518px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:12;
+} 
+
+ #kryg3 
+{ 
+	 left: 1417px; 
+	 top: 518px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:13;
+} 
+
+ #button2
+{ 
+	 left: 1214px; 
+	 top: 995px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 33px;
+	 z-index:14;
+} 
+
+ #info2 
+{ 
+	 left: 1250px; 
+	 top: 995px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 11px;
+	 z-index:15;
+} 
+
+ #text2
+{ 
+	 left: 1150px; 
+	 top: 911px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 50px;
+	 z-index:16;
+} 
+
+ #Heading3 
+{ 
+	 left: 1224px; 
+	 top: 865px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 16px;
+	 z-index:17;
+} 
+
+ #win10 
+{ 
+	 left: 1218px; 
+	 top: 711px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 123px;
+	 z-index:18;
+} 
+
+ #button3 
+{ 
+	 left: 894px; 
+	 top: 989px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 33px;
+	 z-index:19;
+} 
+
+ #info3
+{ 
+	 left: 930px; 
+	 top: 989px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 11px;
+	 z-index:20;
+} 
+
+ #text3 
+{ 
+	 left: 830px; 
+	 top: 911px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 50px;
+	 z-index:21;
+} 
+
+ #Heading2 
+{ 
+	 left: 904px; 
+	 top: 865px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 16px;
+	 z-index:22;
+} 
+
+ #android 
+{ 
+	 left: 898px; 
+	 top: 711px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 123px;
+	 z-index:23;
+} 
+
+ #button4 
+{ 
+	 left: 574px; 
+	 top: 989px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 33px;
+	 z-index:24;
+} 
+
+ #info4
+{ 
+	 left: 610px; 
+	 top: 989px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 11px;
+	 z-index:25;
+} 
+
+ #text4
+{ 
+	 left: 510px; 
+	 top: 911px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 50px;
+	 z-index:26;
+} 
+
+ #Heading1 
+{ 
+	 left: 584px; 
+	 top: 865px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 16px;
+	 z-index:27;
+} 
+
+ #apple 
+{ 
+	 left: 580px; 
+	 top: 712px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 122px;
+	 z-index:28;
+} 
+
+ #OURSERVICES 
+{ 
+	 left: 805px; 
+	 top: 623px; 
+	 position: absolute; 
+	 width: 310px;
+	 height: 34px;
+	 z-index:29;
+
+} 
+
+ #line
+{ 
+	 left: 563px; 
+	 top: 640px; 
+	 position: absolute; 
+	 width: 225px;
+	 height: 1px;
+	 z-index:30;
+	 background: black;
+} 
+
+ #line2 
+{ 
+	 left: 1133px; 
+	 top: 640px; 
+	 position: absolute; 
+	 width: 225px;
+	 height: 1px;
+	 z-index:31;
+	 background: black;
+} 
+
+ #fon2
+{ 
+	 left: -25px; 
+	 top: 1052px; 
+	 position: absolute; 
+	 width: 1970px;
+	 height: 622px;
+	 z-index:32;
+} 
+
+ #map 
+{ 
+	 left: 970px; 
+	 top: 1215px; 
+	 position: absolute; 
+	 width: 460px;
+	 height: 153px;
+	 z-index:33;
+} 
+
+ #point
+{ 
+	 left: 1172px; 
+	 top: 1288px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 25px;
+	 z-index:34;
+} 
+
+ #name 
+{ 
+	 left: 968px; 
+	 top: 1376px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:35;
+} 
+
+ #email 
+{ 
+	 left: 968px; 
+	 top: 1416px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:36;
+} 
+
+ #phone 
+{ 
+	 left: 968px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:37;
+} 
+
+ #message 
+{ 
+	 left: 968px; 
+	 top: 1496px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 113px;
+	 z-index:38;
+} 
+
+ #send 
+{ 
+	 left: 1336px; 
+	 top: 1576px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 33px;
+	 z-index:39;
+} 
+
+ #NAME 
+{ 
+	 left: 980px; 
+	 top: 1380px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 10px;
+	 z-index:40;
+} 
+
+ #Email 
+{ 
+	 left: 980px; 
+	 top: 1420px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 10px;
+	 z-index:41;
+} 
+
+ #Phone 
+{ 
+	 left: 980px; 
+	 top: 1460px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 10px;
+	 z-index:42;
+} 
+
+ #MESSAGE 
+{ 
+	 left: 980px; 
+	 top: 1500px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 10px;
+	 z-index:43;
+} 
+
+ #SEND 
+{ 
+	 left: 1366px; 
+	 top: 1580px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 10px;
+	 z-index:44;
+} 
+
+ #ski1 
+{ 
+	 left: 488px; 
+	 top: 1457px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:45;
+} 
+
+ #ski2 
+{ 
+	 left: 488px; 
+	 top: 1497px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:46;
+} 
+
+ #ski3 
+{ 
+	 left: 488px; 
+	 top: 1537px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:47;
+} 
+
+ #ski4
+{ 
+	 left: 488px; 
+	 top: 1577px; 
+	 position: absolute; 
+	 width: 463px;
+	 height: 33px;
+	 z-index:48;
+} 
+
+ #ski5
+{ 
+	 left: 488px; 
+	 top: 1457px; 
+	 position: absolute; 
+	 width: 433px;
+	 height: 33px;
+	 z-index:49;
+} 
+
+ #ski6 
+{ 
+	 left: 488px; 
+	 top: 1497px; 
+	 position: absolute; 
+	 width: 443px;
+	 height: 33px;
+	 z-index:50;
+} 
+
+ #ski7 
+{ 
+	 left: 488px; 
+	 top: 1537px; 
+	 position: absolute; 
+	 width: 403px;
+	 height: 33px;
+	 z-index:51;
+} 
+
+ #ski8
+{ 
+	 left: 488px; 
+	 top: 1577px; 
+	 position: absolute; 
+	 width: 393px;
+	 height: 33px;
+	 z-index:52;
+} 
+
+ #HTMLHTML5 
+{ 
+	 left: 500px; 
+	 top: 1460px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 10px;
+	 z-index:53;
+} 
+
+ #CSSCSS3 
+{ 
+	 left: 499px; 
+	 top: 1500px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 10px;
+	 z-index:54;
+} 
+
+ #PhotoshopIlLustrator 
+{ 
+	 left: 500px; 
+	 top: 1540px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 10px;
+	 z-index:55;
+} 
+
+ #MobiledesignResponsi 
+{ 
+	 left: 500px; 
+	 top: 1580px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 10px;
+	 z-index:56;
+} 
+
+ #Skills 
+{ 
+	 left: 490px; 
+	 top: 1424px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 17px;
+	 z-index:57;
+} 
+
+ #Loremipsumdolorsitam_3 
+{ 
+	 left: 489px; 
+	 top: 1267px; 
+	 position: absolute; 
+	 width: 456px;
+	 height: 119px;
+	 z-index:58;
+} 
+
+ #Testtask 
+{ 
+	 left: 489px; 
+	 top: 1215px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 26px;
+	 z-index:59;
+} 
+
+ #About 
+{ 
+	 left: 883px; 
+	 top: 1117px; 
+	 position: absolute; 
+	 width: 155px;
+	 height: 34px;
+	 z-index:60;
+} 
+
+ #line3
+{ 
+	 left: 638px; 
+	 top: 1134px; 
+	 position: absolute; 
+	 width: 225px;
+	 height: 1px;
+	 z-index:61;
+	 background: black;
+} 
+
+ #line4 
+{ 
+	 left: 1057px; 
+	 top: 1134px; 
+	 position: absolute; 
+	 width: 225px;
+	 height: 1px;
+	 z-index:62;
+} 
+
+ #template 
+{ 
+	 left: 491px; 
+	 top: 55px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 13px;
+	 z-index:63;
+} 
+
+ #TESTTASK 
+{ 
+	 left: 490px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 17px;
+	 z-index:64;
+} 
+
+ #Shape1copy4 
+{ 
+	 left: -25px; 
+	 top: 1670px; 
+	 position: absolute; 
+	 width: 1970px;
+	 height: 103px;
+	 z-index:65;
+} 
+
+ #Copyrightshere 
+{ 
+	 left: 920px; 
+	 top: 1717px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 12px;
+	 z-index:66;
+} 
