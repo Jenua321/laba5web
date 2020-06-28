@@ -14,7 +14,7 @@
 	 height: 1772px; 
 	 overflow: hidden;
 	 z-index:0;
-	} 
+} 
 
  #background 
 { 
@@ -65,24 +65,33 @@
 	 height: 708px;
 	 z-index:5;    
 }
-#ios 
+.ios 
 { 
-	 left: 970px; 
-	 top: 239px; 
+	 left: 960px; 
+	 top: 100px; 
 	 position: absolute; 
 	 width: 371px;
 	 height: 48px;
 	 z-index:7;
+	 font-size: 48px; 
+	 color: rgb(255, 255, 255);
+	 line-height: 1.2; 
+	 text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); 
+	 margin-left: 10px; 
+	 margin-top: 138px;
 } 
 
-#text
+.text
 { 
 	 left: 972px; 
 	 top: 307px; 
 	 position: absolute; 
-	 width: 456px;
-	 height: 39px;
+	 width: 420px;
 	 z-index:8;
+	 font-family: arial;
+	 color: rgb(51, 85, 101);
+     line-height: 1.167;
+     text-align: justify;
 } 
 
  #button1
@@ -95,14 +104,15 @@
 	 z-index:9;
 } 
 
- #info1 
+.info1 
 { 
 	 left: 1018px; 
-	 top: 389px; 
+	 top: 390px; 
 	 position: absolute; 
 	 width: 77px;
 	 height: 14px;
 	 z-index:10;
+	 color: white;
 } 
 
  #kryg1 
@@ -145,34 +155,36 @@
 	 z-index:14;
 } 
 
- #info2 
+.info2 
 { 
-	 left: 1250px; 
-	 top: 995px; 
+	 left: 1245px; 
+	 top: 998px; 
 	 position: absolute; 
-	 width: 60px;
-	 height: 11px;
 	 z-index:15;
+	 color: white;
 } 
 
- #text2
+.text2
 { 
-	 left: 1150px; 
-	 top: 911px; 
+	 text-align: center;
+	 font-size: 15px;
+	 left: 1185px; 
+	 top: 910px; 
 	 position: absolute; 
-	 width: 259px;
-	 height: 50px;
 	 z-index:16;
+	 font-family: arial;
+     line-height: 1.160;
+     width: 210px;
 } 
 
- #Heading3 
+.Heading3 
 { 
-	 left: 1224px; 
+	 left: 1220px; 
 	 top: 865px; 
 	 position: absolute; 
-	 width: 113px;
-	 height: 16px;
+	 color: #3674ba;
 	 z-index:17;
+	 font-size: 24px;
 } 
 
  #win10 
@@ -188,41 +200,43 @@
  #button3 
 { 
 	 left: 894px; 
-	 top: 989px; 
+	 top: 995px; 
 	 position: absolute; 
 	 width: 130px;
 	 height: 33px;
 	 z-index:19;
 } 
 
- #info3
+.info3
 { 
-	 left: 930px; 
-	 top: 989px; 
+	 left: 925px; 
+	 top: 998px; 
 	 position: absolute; 
-	 width: 60px;
-	 height: 11px;
 	 z-index:20;
+	 color: white;
 } 
 
- #text3 
+.text3 
 { 
-	 left: 830px; 
+	 left: 860px; 
 	 top: 911px; 
 	 position: absolute; 
-	 width: 259px;
-	 height: 50px;
 	 z-index:21;
+	 text-align: center;
+	 font-size: 15px; 
+	 font-family: arial;
+     line-height: 1.160;
+     width: 210px;
 } 
 
- #Heading2 
+.Heading2 
 { 
-	 left: 904px; 
+	 left: 900px; 
 	 top: 865px; 
 	 position: absolute; 
-	 width: 113px;
-	 height: 16px;
-	 z-index:22;
+	 z-index:22;  
+	 color: #3674ba;
+	 font-size: 24px;
 } 
 
  #android 
@@ -238,44 +252,46 @@
  #button4 
 { 
 	 left: 574px; 
-	 top: 989px; 
+	 top: 990px; 
 	 position: absolute; 
 	 width: 130px;
 	 height: 33px;
 	 z-index:24;
 } 
 
- #info4
+.info4
 { 
-	 left: 610px; 
-	 top: 989px; 
+	 left: 605px; 
+	 top: 993px; 
 	 position: absolute; 
-	 width: 60px;
-	 height: 11px;
 	 z-index:25;
+	 color: white;
 } 
 
- #text4
+.text4
 { 
-	 left: 510px; 
+	 left: 535px; 
 	 top: 911px; 
 	 position: absolute; 
-	 width: 259px;
-	 height: 50px;
 	 z-index:26;
+	 text-align: center;
+	 font-size: 15px; 
+	 font-family: arial;
+     line-height: 1.160;
+     width: 210px;
 } 
 
- #Heading1 
+.Heading1 
 { 
-	 left: 584px; 
+	 left: 580px; 
 	 top: 865px; 
 	 position: absolute; 
-	 width: 109px;
-	 height: 16px;
-	 z-index:27;
+	 z-index:27; 
+	 color: #3674ba;
+	 font-size: 24px;
 } 
 
- #apple 
+#apple 
 { 
 	 left: 580px; 
 	 top: 712px; 
@@ -285,14 +301,14 @@
 	 z-index:28;
 } 
 
- #OURSERVICES 
+.OURSERVICES 
 { 
 	 left: 805px; 
-	 top: 623px; 
+	 top: 600px; 
 	 position: absolute; 
-	 width: 310px;
-	 height: 34px;
+	 font-size: 46px;
 	 z-index:29;
+	 color: #5B6169;
 
 } 
 
@@ -396,58 +412,9 @@
 	 width: 95px;
 	 height: 33px;
 	 z-index:39;
+	 background: #3674ba;
+	 color: white;
 } 
-
- #NAME 
-{ 
-	 left: 980px; 
-	 top: 1380px; 
-	 position: absolute; 
-	 width: 39px;
-	 height: 10px;
-	 z-index:40;
-} 
-
- #Email 
-{ 
-	 left: 980px; 
-	 top: 1420px; 
-	 position: absolute; 
-	 width: 44px;
-	 height: 10px;
-	 z-index:41;
-} 
-
- #Phone 
-{ 
-	 left: 980px; 
-	 top: 1460px; 
-	 position: absolute; 
-	 width: 47px;
-	 height: 10px;
-	 z-index:42;
-} 
-
- #MESSAGE 
-{ 
-	 left: 980px; 
-	 top: 1500px; 
-	 position: absolute; 
-	 width: 61px;
-	 height: 10px;
-	 z-index:43;
-} 
-
- #SEND 
-{ 
-	 left: 1366px; 
-	 top: 1580px; 
-	 position: absolute; 
-	 width: 36px;
-	 height: 10px;
-	 z-index:44;
-} 
-
  #ski1 
 { 
 	 left: 488px; 
@@ -528,84 +495,90 @@
 	 z-index:52;
 } 
 
- #HTMLHTML5 
+.HTMLHTML5 
 { 
 	 left: 500px; 
 	 top: 1460px; 
 	 position: absolute; 
-	 width: 95px;
-	 height: 10px;
 	 z-index:53;
+	 color: white;
 } 
 
- #CSSCSS3 
+ .CSSCSS3 
 { 
 	 left: 499px; 
 	 top: 1500px; 
 	 position: absolute; 
-	 width: 68px;
-	 height: 10px;
 	 z-index:54;
+	 color: white;
 } 
 
- #PhotoshopIlLustrator 
+ .PhotoshopIlLustrator 
 { 
 	 left: 500px; 
 	 top: 1540px; 
 	 position: absolute; 
-	 width: 186px;
-	 height: 10px;
 	 z-index:55;
+	 color: white;
 } 
 
- #MobiledesignResponsi 
+ .MobiledesignResponsi 
 { 
 	 left: 500px; 
 	 top: 1580px; 
 	 position: absolute; 
-	 width: 252px;
-	 height: 10px;
 	 z-index:56;
+	 color: white;
 } 
 
- #Skills 
+ .Skills 
 { 
 	 left: 490px; 
 	 top: 1424px; 
 	 position: absolute; 
-	 width: 72px;
-	 height: 17px;
 	 z-index:57;
+	 color: #3674ba;
+	 font-size: 24px;
 } 
 
- #Loremipsumdolorsitam_3 
+ .Loremipsumdolorsitam_3 
 { 
 	 left: 489px; 
-	 top: 1267px; 
+	 top: 1245px; 
 	 position: absolute; 
-	 width: 456px;
-	 height: 119px;
 	 z-index:58;
+	 font-size: 15px; 
+	 font-family: arial;
+     width: 450px;
+     text-align: justify;
+
 } 
 
- #Testtask 
+ .Testtask 
 { 
-	 left: 489px; 
-	 top: 1215px; 
+	 left: 480px; 
+	 top: 1200px; 
 	 position: absolute; 
-	 width: 129px;
-	 height: 26px;
 	 z-index:59;
+	 font-size: 36px;
+     color: rgb(124, 124, 124);
+     line-height: 1.2;
+     text-align: left;
+
+     
+
 } 
 
- #About 
+ .About 
 { 
-	 left: 883px; 
-	 top: 1117px; 
+	 left: 900px; 
+	 top: 1100px; 
 	 position: absolute; 
 	 width: 155px;
 	 height: 34px;
 	 z-index:60;
+	 color: #5B6169;
+	 font-size: 40px;
 } 
 
  #line3
@@ -627,19 +600,26 @@
 	 width: 225px;
 	 height: 1px;
 	 z-index:62;
+	 background: black;
 } 
 
- #template 
+.template 
 { 
-	 left: 491px; 
-	 top: 55px; 
+	 left: 490px; 
+     top: 48px;
 	 position: absolute; 
-	 width: 53px;
-	 height: 13px;
-	 z-index:63;
+	 width: 103px;
+	 height: 20px;
+	 z-index:64;
+     color: white;
+     font-family: "Arial";
+     text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5);
+     background: linear-gradient(white,white); 
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent; 
 } 
 
- #TESTTASK 
+ .TESTTASK 
 { 
 	 left: 490px; 
 	 top: 28px; 
@@ -647,6 +627,13 @@
 	 width: 103px;
 	 height: 17px;
 	 z-index:64;
+     color: white;
+     font-family: "Arial";
+     text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+     background: linear-gradient(white,white); 
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent; 
+
 } 
 
  #Shape1copy4 
@@ -659,12 +646,12 @@
 	 z-index:65;
 } 
 
- #Copyrightshere 
+ .Copyrightshere 
 { 
 	 left: 920px; 
 	 top: 1717px; 
 	 position: absolute; 
-	 width: 80px;
-	 height: 12px;
 	 z-index:66;
+	 color: rgb(111, 111, 111);
+	 font-size: 14px;
 } 
